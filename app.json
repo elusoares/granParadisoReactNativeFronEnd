@@ -1,0 +1,7 @@
+{
+  "name": "granParadiso",
+  "displayName": "granParadiso",
+  "packagerOpts": {
+    "config": "metro.config.js"
+  }
+}
