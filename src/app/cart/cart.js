@@ -1,7 +1,7 @@
 import React from 'react';
 import { Text } from 'react-native';
 
-const ShoppingCart = () => {
+const Cart = () => {
     return <Text>Carrinho</Text>;
 };
-export default ShoppingCart;
+export default Cart;
